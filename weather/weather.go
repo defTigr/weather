@@ -39,7 +39,7 @@ func PredictAtCoords(lat, long float64) (Prediction, error) {
 	return Unknown, nil
 }
 
-// GetVersion returns the package version
-func GetVersion() string {
-	return "v1.0.2"
+// GetSemanticVersion returns the package version
+func GetSemanticVersion() string {
+	return "v2.0.2"
 }
