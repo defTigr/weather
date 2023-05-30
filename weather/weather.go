@@ -41,5 +41,5 @@ func PredictAtCoords(lat, long float64) (Prediction, error) {
 
 // GetVersion returns the package version
 func GetVersion() string {
-	return "v1.0.0"
+	return "v1.0.2"
 }

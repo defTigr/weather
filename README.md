@@ -1,3 +1,3 @@
 # weather
 
-Use to get local wather forecast
+Use to get local weather forecast
