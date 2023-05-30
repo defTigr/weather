@@ -1,3 +1,3 @@
-module github.com/defTigr/weather.git
+module github.com/defTigr/weather
 
 go 1.20
